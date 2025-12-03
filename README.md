@@ -58,9 +58,3 @@ Permitir comparação entre anotadores e cálculos de concordância.
 Gerar um corpus padrão-ouro para análises linguísticas e experimentos supervisionados em PLN.
 Criar documentação reprodutível de todo o pipeline: seleção, anotação e consolidação.
 Dar suporte à detecção de vieses linguísticos e categorias sensíveis em textos brasileiros.
-
-
-# 9. Contatos
-Desenvolvimento e pesquisa: Prof.ª Dr.ª Valéria Quadros dos Reis
-Instituição: Universidade Federal de Mato Grosso do Sul – FACOM
-E-mail: valeria.reis@ufms.br
